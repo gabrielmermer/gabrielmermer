@@ -3,33 +3,62 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/Ankicli.png"
 date = "2020-04-05"
-title = "Anki cli card maker"
+title = "Anki card maker"
 weight = -2
 +++
 
 create Anki cards from your terminal
 <!--more-->
 
-![logo](/img/portfolio/spacerCompressed.jpg)
 
-# Reliving the history
+# Create Anki cards, the fast way.
 
-This game took place in Warsaw during the March of 2020. 
+[Anki](https://apps.ankiweb.net/) is a progam used for spaced repetition, and retainging knowledge for the long term.
 
-Your task was to visit the important places in history of scouting before the Warsaw Uprising.
+The script I made in python makes it easier to add the new information you wish to remeber, by generating flashcards from user input and puting them into .csv table, that is easy to import into Anki.
 
-You had three dificulty levels:
-* zawiszacy
-* bojowe szkoły 
-* grupy szturmowe
+It works on Windows, Mac and Linux, and can be used on android with [Termux](https://termux.com/).
+Simply copy the script and choose your .csv file path.
+Source code below.
+
+```python
+import csv
+import os
+os.system('cls' if os.name == 'nt' else 'clear')
+
+tag = input("tag: ")
+
+# press . to quit
+
+card_count = 1
+while True:
+
+    os.system('cls' if os.name == 'nt' else 'clear')
+    card_list = []
+
+    print(card_count,'',end='')
+    front_side = str(input("> "))
+    if front_side == ".":
+        break
+
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+    back_side = str(input(">> "))
+
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+    card_list.append(front_side)
+    card_list.append(back_side)
+    card_list.append(tag)
+
+    current_row = [front_side,back_side,tag]
+
+    # put your .csv file path below
+    table = open('~/output.csv', 'a',encoding="utf-8")
+    tablewriter = csv.writer(table, delimiter='|')
+    tablewriter.writerow(current_row)
+    table.close()
 
 
-
-Each level required difrent ammount of time and skills to complete.
-
-## My part
-
-I was responsable for the design of the technical side of the event.
-
-The process was to design the network of points that 
-
+    card_count +=1
+```
