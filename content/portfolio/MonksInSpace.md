@@ -7,29 +7,29 @@ title = "Monks Can Into Space"
 weight = -2
 +++
 
-Video game made as our entry in Ludum Dare gamejam.
+video game made in 72 hours or less
 <!--more-->
 
-![logo](/img/portfolio/spacerCompressed.jpg)
+![logo](/img/portfolio/monks.png)
 
-# Reliving the history
-
-This game took place in Warsaw during the March of 2020. 
-
-Your task was to visit the important places in history of scouting before the Warsaw Uprising.
-
-You had three dificulty levels:
-* zawiszacy
-* bojowe szkoły 
-* grupy szturmowe
+Sometimes, when we’re really tired of our oridinary lives, we want to start over. One way to achieve that is a leaving everything behind in order to create new, happier path in our lives. Our story is about a man who felt that his life was boring and useless, and was trying to find a way to change that. Fortunately, he discovered certain space program that could fulfill his desire to find inner peace in exciting and somehow religious style. ‘How’ you may ask? Well, it’s because **Monks Can Into Space**! 
 
 
+![game screenshot](/img/portfolio/monks1.png)
+![game screenshot](/img/portfolio/monks2.png)
+![game screenshot](/img/portfolio/monks3.png)
+![game screenshot](/img/portfolio/monks4.png)
 
-Each level required difrent ammount of time and skills to complete.
+Credits:
 
-## My part
+* Gabriel Mermer - Lead & SFX
+* Karol Borecki - Programming
+* Maksymilian "skill" Tym - Programming & Getting the people for this jam
+* Kuba "Puszke" Łącki - Programming & Graphics
+* Jan "Lewicz" Kadlewicz - Graphics
+* Zuzanna "Baki" Centka - Graphics & Emotional Support <3
+* Paulina "Rikarin" Pniak - Graphics
+* Kacper Tereba - SFX
+* Weronika Szwędrowska - Music Composer
 
-I was responsable for the design of the technical side of the event.
-
-The process was to design the network of points that 
-
+[download link](https://skillgamesstudio.itch.io/mcis)
