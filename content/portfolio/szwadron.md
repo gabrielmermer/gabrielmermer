@@ -15,7 +15,7 @@ scouting team website
 
 [**direct link**](https://szwadron69.wordpress.com/)
 
-This is an "about me" website for scout team that i used to command. 
+This is an "about me" website for a scout team that I used to command. 
 
 It serves both informational, and a photo gallery role.
 

@@ -16,12 +16,11 @@ scouting unit gourp website
 
 This is a website designed for a scout group of ~100 people. It serves as:
 * image gallery
-* information provider
-* donations centre
+* information centre
 * online recruitment platform
-* (unused) event calendar
+* bulletin board
 
-Whole thing runs on Wordpress, and has fancy parallax built in.
+The whole thing runs on Wordpress and has fancy parallax built-in.
 
 ![drużyny](/img/portfolio/szczep-o-nas.png)
 

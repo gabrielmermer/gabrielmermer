@@ -7,5 +7,5 @@ I am passionate about design in many forms. Love coding, and Linux. Care to lear
 
 
 #### education
-* Warsaw Video Game Design School - during second year
+* Warsaw Video Game Design School - on second year
 

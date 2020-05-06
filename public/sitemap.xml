@@ -3,27 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gabrielmermer.github.io/portfolio/stronaszczepu/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gabrielmermer.github.io/portfolio/ankicli/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gabrielmermer.github.io/portfolio/cuteclock/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gabrielmermer.github.io/portfolio/monksinspace/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gabrielmermer.github.io/portfolio/tres/</loc>
+    <loc>https://gabrielmermer.github.io/portfolio/keepitlive/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,7 +13,12 @@
   </url>
   
   <url>
-    <loc>https://gabrielmermer.github.io/portfolio/szwadron/</loc>
+    <loc>https://gabrielmermer.github.io/portfolio/monksinspace/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrielmermer.github.io/portfolio/stronaszczepu/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +28,12 @@
   </url>
   
   <url>
-    <loc>https://gabrielmermer.github.io/portfolio/keepitlive/</loc>
+    <loc>https://gabrielmermer.github.io/portfolio/tres/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gabrielmermer.github.io/portfolio/szwadron/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url>
   

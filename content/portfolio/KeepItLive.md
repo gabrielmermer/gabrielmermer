@@ -19,6 +19,9 @@ video game made in 72 hours.
 *early stage design*
 
 
+[**direct link**](https://zubrzysta.itch.io/keep-it-live)
+
+
 You’re a controversial, yet successful streamer. There are people who will try to get your stream down. Your life, and more importantly internet fame depends on it!
 
 Production team:
@@ -28,7 +31,6 @@ Production team:
 * Jan Kadlewicz - graphics/code
 * Gabriel Mermer - Design/UX/SFX
 
-[Download link](https://zubrzysta.itch.io/keep-it-live)
 
 
 ![first location](/img/portfolio/live2.png)

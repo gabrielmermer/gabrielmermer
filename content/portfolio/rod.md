@@ -13,12 +13,12 @@ build a settlement as an ancient slavic god
 ![full game](/img/portfolio/rod-full.jpg/)
 
 
-In **Rod** boardgame players become ancient slavic gods, who will fight in order of winning the Godly Race. Even if the blood will be spilled we know that they will have to help each other along the way.
+In **Rod** boardgame players become ancient Slavic gods, who will fight in order of winning the Godly Race. Even if the blood will be spilled we know that they will have to help each other along the way.
 
 * Players: 2-4
 * Time: 60 minutes
 
-Boardgame realised as a school project during one semester. 
+Boardgame realised as a school project during five months. 
 
 Credits:
 * Gabriel Mermer - game logic, team leader

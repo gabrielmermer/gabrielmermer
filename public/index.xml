@@ -5,55 +5,19 @@
     <link>https://gabrielmermer.github.io/</link>
     <description>Recent content on Gabriel Mermer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pl</language>
     <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gabrielmermer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>69wdhiz website</title>
-      <link>https://gabrielmermer.github.io/portfolio/stronaszczepu/</link>
+      <title>Keep It Live!</title>
+      <link>https://gabrielmermer.github.io/portfolio/keepitlive/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielmermer.github.io/portfolio/stronaszczepu/</guid>
-      <description>&lt;p&gt;Scouting news website.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Anki cli card maker</title>
-      <link>https://gabrielmermer.github.io/portfolio/ankicli/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielmermer.github.io/portfolio/ankicli/</guid>
-      <description>&lt;p&gt;create Anki cards from your terminal&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Cute clock</title>
-      <link>https://gabrielmermer.github.io/portfolio/cuteclock/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielmermer.github.io/portfolio/cuteclock/</guid>
-      <description>&lt;p&gt;RGB backlight and custom messages included&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Monks Can Into Space</title>
-      <link>https://gabrielmermer.github.io/portfolio/monksinspace/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielmermer.github.io/portfolio/monksinspace/</guid>
-      <description>&lt;p&gt;Video game made as our entry in Ludum Dare gamejam.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rod boardgame</title>
-      <link>https://gabrielmermer.github.io/portfolio/tres/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielmermer.github.io/portfolio/tres/</guid>
-      <description>&lt;p&gt;Learn vocab the fun way.&lt;/p&gt;</description>
+      <guid>https://gabrielmermer.github.io/portfolio/keepitlive/</guid>
+      <description>&lt;p&gt;video game made in 72 hours.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -66,30 +30,48 @@
     </item>
     
     <item>
+      <title>Monks Can Into Space</title>
+      <link>https://gabrielmermer.github.io/portfolio/monksinspace/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielmermer.github.io/portfolio/monksinspace/</guid>
+      <description>&lt;p&gt;video game made in 72 hours or less&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>69WDHiZ website</title>
+      <link>https://gabrielmermer.github.io/portfolio/stronaszczepu/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielmermer.github.io/portfolio/stronaszczepu/</guid>
+      <description>&lt;p&gt;scouting unit gourp website&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rod boardgame</title>
+      <link>https://gabrielmermer.github.io/portfolio/rod/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielmermer.github.io/portfolio/rod/</guid>
+      <description>&lt;p&gt;build a settlement as an ancient slavic god&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tres boardgame</title>
+      <link>https://gabrielmermer.github.io/portfolio/tres/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielmermer.github.io/portfolio/tres/</guid>
+      <description>&lt;p&gt;Spanish language learning game&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Szwadron 69</title>
       <link>https://gabrielmermer.github.io/portfolio/szwadron/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielmermer.github.io/portfolio/szwadron/</guid>
-      <description>&lt;p&gt;Scouting team website.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>¡Tres! boardgame</title>
-      <link>https://gabrielmermer.github.io/portfolio/rod/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielmermer.github.io/portfolio/rod/</guid>
-      <description>&lt;p&gt;Learn vocab the fun way.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Keep It Live</title>
-      <link>https://gabrielmermer.github.io/portfolio/keepitlive/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielmermer.github.io/portfolio/keepitlive/</guid>
-      <description>&lt;p&gt;Video game made for Ludum Dare game jam in 72 hours.&lt;/p&gt;</description>
+      <description>&lt;p&gt;scouting team website&lt;/p&gt;</description>
     </item>
     
   </channel>

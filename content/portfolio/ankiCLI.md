@@ -13,9 +13,9 @@ create Anki cards from your terminal
 
 # Create Anki cards, the fast way.
 
-[Anki](https://apps.ankiweb.net/) is a progam used for spaced repetition, and retaining knowledge for the long term.
+[Anki](https://apps.ankiweb.net/) is a program used for spaced repetition and retaining knowledge for the long term.
 
-The script I made in python makes it easier to add the new information you wish to remeber, by generating flashcards from user input and puting them into .csv table, which is easy to import into Anki.
+The script I made in python makes it easier to add the new information you wish to remember, by generating flashcards from user input and putting them into .csv table, which is easy to import into Anki.
 
 It works on Windows, Mac and Linux, and can be used on android with [Termux](https://termux.com/).
 Simply copy the script and choose your .csv file path.
