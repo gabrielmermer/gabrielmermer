@@ -1,35 +1,35 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/cover.png"
+image = "img/portfolio/rod-card.png"
 date = "2020-04-05"
-title = "¡Tres! boardgame"
-weight = -2
+title = "Rod boardgame"
+weight = 3
 +++
 
-Learn vocab the fun way.
+build a settlement as an ancient slavic god
 <!--more-->
 
-![logo](/img/portfolio/spacerCompressed.jpg)
-
-# Reliving the history
-
-This game took place in Warsaw during the March of 2020. 
-
-Your task was to visit the important places in history of scouting before the Warsaw Uprising.
-
-You had three dificulty levels:
-* zawiszacy
-* bojowe szkoły 
-* grupy szturmowe
+![full game](/img/portfolio/rod-full.jpg/)
 
 
+In **Rod** boardgame players become ancient slavic gods, who will fight in order of winning the Godly Race. Even if the blood will be spilled we know that they will have to help each other along the way.
 
-Each level required difrent ammount of time and skills to complete.
+* Players: 2-4
+* Time: 60 minutes
 
-## My part
+Boardgame realised as a school project during one semester. 
 
-I was responsable for the design of the technical side of the event.
+Credits:
+* Gabriel Mermer - game logic, team leader
+* Kacper Tereba - game logic
+* Ola Czyżkowska - graphic design
+* Izabela Zalewska - graphic design
 
-The process was to design the network of points that 
-
+Special thanks:
+* Maria Mermer - tools access
+* Michalina Kapica - help with making the prototype
+* Marcel Dąbrowski - play tester
+* Kostek Pszeniczny - play tester
+* Cyprian Gburek - play tester
+* Kornel Komaniecki - play tester

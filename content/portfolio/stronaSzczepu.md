@@ -3,33 +3,26 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/69.png"
 date = "2020-04-05"
-title = "69wdhiz website"
-weight = -2
+title = "69WDHiZ website"
+weight = 3
 +++
 
-Scouting news website.
+scouting unit gourp website
 <!--more-->
 
-![logo](/img/portfolio/spacerCompressed.jpg)
+![logo](/img/portfolio/69.png)
 
-# Reliving the history
+[**direct link**](http://69wdhiz.mokotow.zhp.pl/)
 
-This game took place in Warsaw during the March of 2020. 
+This is a website designed for a scout group of ~100 people. It serves as:
+* image gallery
+* information provider
+* donations centre
+* online recruitment platform
+* (unused) event calendar
 
-Your task was to visit the important places in history of scouting before the Warsaw Uprising.
+Whole thing runs on Wordpress, and has fancy parallax built in.
 
-You had three dificulty levels:
-* zawiszacy
-* bojowe szkoły 
-* grupy szturmowe
+![drużyny](/img/portfolio/szczep-o-nas.png)
 
-
-
-Each level required difrent ammount of time and skills to complete.
-
-## My part
-
-I was responsable for the design of the technical side of the event.
-
-The process was to design the network of points that 
-
+![drużyny](/img/portfolio/szczep-świerki.jpg)

@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/monks.png"
 date = "2020-04-05"
 title = "Monks Can Into Space"
-weight = -2
+weight = 2
 +++
 
 video game made in 72 hours or less

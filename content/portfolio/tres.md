@@ -1,35 +1,31 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/rod-card.png"
+image = "img/portfolio/cover.png"
 date = "2020-04-05"
-title = "Rod boardgame"
-weight = -2
+title = "Tres boardgame"
+weight = 5
 +++
 
-Learn vocab the fun way.
+Spanish language learning game
 <!--more-->
 
-![logo](/img/portfolio/spacerCompressed.jpg)
 
-# Reliving the history
+![table shot](/img/portfolio/tres-table.png)
 
-This game took place in Warsaw during the March of 2020. 
+This is a boardgame made for learning Spanish vocabulary.
 
-Your task was to visit the important places in history of scouting before the Warsaw Uprising.
+The players have to collect three cards of one noun do gain a point, and the collecting of cards is done by asking anyone if they have such of an card (provided that we do, we can't ask for card we don't have). If the asked player doesn't have a card, the asker has to draw one card from the deck. 
 
-You had three dificulty levels:
-* zawiszacy
-* bojowe szkoły 
-* grupy szturmowe
+The game ends when one person gains three points.
 
+* Players: 2-4
+* Time: 15 minutes
 
 
-Each level required difrent ammount of time and skills to complete.
+![angle shot](/img/portfolio/tres-bok.png)
 
-## My part
+![making shot](/img/portfolio/tres-making.png)
 
-I was responsable for the design of the technical side of the event.
 
-The process was to design the network of points that 
-
+![logo shot](/img/portfolio/tres-logo.png)

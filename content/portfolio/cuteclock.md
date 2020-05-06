@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = false
+draft = true
 image = "img/portfolio/clock.jpg"
 date = "2020-04-05"
 title = "Cute clock"

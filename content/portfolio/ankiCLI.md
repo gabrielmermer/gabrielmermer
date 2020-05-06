@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
-draft = false
+draft = true
 image = "img/portfolio/Ankicli.png"
 date = "2020-04-05"
 title = "Anki card maker"
-weight = -2
+weight = 7
 +++
 
 create Anki cards from your terminal
