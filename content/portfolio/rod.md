@@ -7,10 +7,10 @@ title = "Rod boardgame"
 weight = 3
 +++
 
-build a settlement as an ancient slavic god
+build a settlement as an ancient Slavic god
 <!--more-->
 
-![full game](/img/portfolio/rod-full.jpg/)
+![full game](/img/portfolio/rod-full.jpg)
 
 
 In **Rod** boardgame players become ancient Slavic gods, who will fight in order of winning the Godly Race. Even if the blood will be spilled we know that they will have to help each other along the way.

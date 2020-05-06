@@ -12,6 +12,11 @@ video game made in 72 hours or less
 
 ![logo](/img/portfolio/monks.png)
 
+
+[**direct link**](https://skillgamesstudio.itch.io/mcis)
+
+
+
 Sometimes, when we’re really tired of our oridinary lives, we want to start over. One way to achieve that is a leaving everything behind in order to create new, happier path in our lives. Our story is about a man who felt that his life was boring and useless, and was trying to find a way to change that. Fortunately, he discovered certain space program that could fulfill his desire to find inner peace in exciting and somehow religious style. ‘How’ you may ask? Well, it’s because **Monks Can Into Space**! 
 
 
@@ -32,4 +37,3 @@ Credits:
 * Kacper Tereba - SFX
 * Weronika Szwędrowska - Music Composer
 
-[download link](https://skillgamesstudio.itch.io/mcis)

@@ -7,7 +7,7 @@ title = "Keep It Live!"
 weight = -1
 +++
 
-video game made in 72 hours.
+video game made in 72 hours 
 <!--more-->
 
 ![logo](/img/portfolio/keepitlive.png)

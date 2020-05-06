@@ -7,7 +7,7 @@ title = "spacer śladami Szarych Szeregów"
 weight = 1
 +++
 
-Historical geo game in Warsaw.
+historical geo game in Warsaw
 <!--more-->
 
 ![logo](/img/portfolio/spacerCompressed.jpg)
