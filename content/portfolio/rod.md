@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/rod-card.png"
 date = "2020-04-05"
-title = "Rod boardgame"
+title = "Rod board game"
 weight = 3
 +++
 

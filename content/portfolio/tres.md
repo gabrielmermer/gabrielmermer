@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/cover.png"
 date = "2020-04-05"
-title = "Tres boardgame"
+title = "Tres board game"
 weight = 5
 +++
 
