@@ -27,7 +27,7 @@ Sometimes, when we’re really tired of our oridinary lives, we want to start ov
 
 Credits:
 
-* Gabriel Mermer - Lead & SFX
+* Gabriel Mermer - Lead & UXUI & SFX 
 * Karol Borecki - Programming
 * Maksymilian "skill" Tym - Programming & Getting the people for this jam
 * Kuba "Puszke" Łącki - Programming & Graphics
